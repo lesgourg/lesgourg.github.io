@@ -1,0 +1,75 @@
+<html>
+<head>
+<title>MCMCs for astro-ph/0606227</title>
+<style type="text/css">
+   <!--
+   BODY {background-color: #191919;
+	 color: #ffc000}
+   a  {color: #ff4e00}
+   -->
+</style>
+</head>
+
+<body>
+
+<h1>
+Monte Carlo Markov Chains for mock Planck data (with and without
+lensing extraction)
+</h1>
+
+We provide here the chains from the paper <font color=white>"Probing cosmological
+parameters with the CMB: Forecasts from full Monte Carlo simulations"</font>
+by Laurence Perotto, Julien Lesgourgues, Steen Hannestad, Huitzu Tu,
+Yvonne Y.Y. Wong, JCAP 0610 (2006) 013 [<a href="http://fr.arxiv.org/pdf/astro-ph/0606227" target="blank">astro-ph/0606227</a>]. These
+chains could be useful for people willing to estimate future
+errors for a combination of Planck data with another mock data set: it is
+then possible to perform some importance sampling analysis starting
+from our chains.
+<p>
+These chains cover four situations: eight or eleven free cosmological
+parameters, each with or without lensing extraction.
+<p>
+The model with eight free parameters is the minimal model to consider
+in a Planck analysis: its parameters are the six parameters of the
+"vanilla model" considered by e.g. WMAP, plus the primordial helium
+fraction (should not be kept fixed at the level of precision of
+Planck) and the fraction of dark matter in the form of massive
+neutrinos (cannot be neglected for Planck, given lower bounds on the
+neutrino mass from neutrino oscillation experiments). The model with
+eleven parameters is an extended model with extra parameters alpha (running of the scalar
+tilt), r (tensor-to-scalar ratio), and w (Dark Energy pressure over density).
+<p>
+In the chains where lensing extraction is included, it was assumed
+that the deflection spectrum dd and the cross-spectrum Td are being
+measured using the quadratic estimator technique of Hu and
+Okamoto. These spectra are then fitted together with the TT/TE/EE
+spectra, including an estimate of the noise for the dd spectrum which
+is derived from Hu and Okamoto's analytic formulas.
+<p>
+Moreover, in each case, the parameter reconstruction can be performed
+by fitting directly the theoretical spectra instead of some random
+realization. In that case, the best-fit parameter values coincide with
+the fiducial values and the minimum log likelihood is zero; despite
+these unrealistic features, this approach is sufficient for estimating
+the error bar on each parameter. So, in each case, we provide chains
+fitted directly to the fiducial model spectrum. In the case of eight
+parameters / no lensing extraction, we also provide chains fitting
+five different random realizations of the fiducial model. 
+<p>
+Name of the chain roots:
+<ul>
+<li><font color=white>Model_nolens_8p</font>: eight parameters, no lensing extraction, fiducial spectra
+<li><font color=white>Seed1_nolens_8p</font>: eight parameters, no lensing extraction, random realization of same model
+<li><font color=white>Seed2_nolens_8p</font>: eight parameters, no lensing extraction, random realization of same model
+<li><font color=white>Seed3_nolens_8p</font>: eight parameters, no lensing extraction, random realization of same model
+<li><font color=white>Seed4_nolens_8p</font>: eight parameters, no lensing extraction, random realization of same model
+<li><font color=white>Seed5_nolens_8p</font>: eight parameters, no lensing extraction, random realization of same model
+<li><font color=white>Model_lens_8p</font>: eight parameters, with lensing extraction, fiducial spectra
+<li><font color=white>Model_nolens_11p</font>: eleven parameters, no lensing extraction, fiducial spectra
+<li><font color=white>Model_lens_11p</font>: eleven parameters, with lensing extraction, fiducial spectra
+</ul>
+<p>
+The file <a href="chains.tar.gz">chains.tar</a> contains all these chains (30 chains in each case). They are raw chains,
+the burn-in phase still needs to be remove.
+</body>
+</html>

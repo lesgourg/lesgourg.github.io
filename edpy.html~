@@ -1,0 +1,178 @@
+<html><head><title>Course page of Julien Lesgourgues</title>
+
+
+<style type="text/css">
+   <!--
+   BODY {background-color: #191919;
+         color: #ffc000}
+   a  {color: #ff4e00}
+   -->
+</style></head><body>
+
+  <table width="100%">
+    <tbody><tr>
+      <td align="center">
+	<a href="index.html">
+	    home
+	    </a>
+
+      </td>
+      <td align="center">
+	<a href="presentation.html">
+	    presentation
+	    </a>
+      </td>
+      <td align="center">
+	courses
+      </td>
+
+      <td align="center">
+
+	<a href="codes.html">
+	  codes
+	  </a>
+      </td>
+      <td align="center">
+	<a href="events.html">
+	  events
+	  </a>
+
+      </td>
+      <td align="center">
+
+	<a href="private.html">
+	  private
+	  </a>
+      </td>
+   </tr>
+</tbody></table>
+
+<img src="images/v50.gif">
+
+<br>
+
+<h1 align="center">Lecture notes on Advanced Cosmology: version of the 20.06.2009</h1>
+
+<br>
+
+<table align="center" width="90%">
+<tbody><tr>
+<td>
+<table>
+  <tbody><tr>
+    <td align="left">
+<ul>
+<li>
+
+Chapter I: <a href="courses/EDPY/I.pdf" target="new">Brief recalls on homogeneous cosmology (11 pages)</a>
+<table>
+<tbody> <tr> <td align="left">
+
+1. Introduction
+<br>
+2. Hubble radius, horizons and observable universe
+<br>
+3. Fourier expansion in flat FLRW universe
+</tbody> </tr> </td>
+</table>
+
+</li>
+<li>
+Chapter II: <a href="courses/EDPY/II.pdf" target="new">Linearized gravity (15 pages)</a>
+<table>
+<tbody> <tr> <td align="left">
+
+1. The gauge ambiguity
+<br>
+2. Mathematical definition of gauge transformations
+<br>
+3. Classification of metric perturbations
+<br>
+4. Linearized Einstein equations
+
+</tbody> </tr> </td>
+</table>
+</li>
+<li>
+Chapter III: Inflation
+<table>
+<tbody> <tr> <td align="left">
+
+1. <a href="courses/EDPY/III1.pdf" target="new">Motivations (5 pages)</a>
+<br>
+2. <a href="courses/EDPY/III2.pdf" target="new">Slow-roll conditions (2 pages)</a>
+<br>
+3. <a href="courses/EDPY/III3.pdf" target="new">Quantization and semi-classical transition (7 pages)</a>
+<br>
+4. <a href="courses/EDPY/III4.pdf" target="new">Tensor perturbations (13 pages)</a>
+<br>
+5. <a href="courses/EDPY/III5.pdf" target="new">Scalar perturbations (8 pages)</a> with summary of expressions for primordial spectra
+</tbody> </tr> </td>
+</table>
+</li>
+<li>
+Chapter IV: Overview of perturbation evolution in minimal LCDM scenario
+<table>
+
+<tbody> <tr> <td align="left">
+1. <a href="courses/EDPY/IV1.pdf" target="new">Which scales? Which times? Which species? (3 pages)</a>
+
+<br>
+2. <a href="courses/EDPY/IV2.pdf" target="new">A stochastic theory (6 pages)</a>
+<br>
+3. <a href="courses/EDPY/IV3.pdf" target="new">Super-Hubble evolution (18 pages)</a> with discussion of adiabatic vs. entropy/isocurvature modes
+<br>
+4. <a href="courses/EDPY/IV4.pdf" target="new">Sub-Hubble evolution during radiation domination (7 pages)</a>
+
+<br>
+5. <a href="courses/EDPY/IV5.pdf" target="new">Sub-Hubble evolution during matter domination (6 pages)</a>
+
+<br>
+6. <a href="courses/EDPY/IV6.pdf" target="new">Evolution during Lambda/DE domination (4 pages)</a> with graphical summary of sections 3,4,5,6.
+<br>
+7. <a href="courses/EDPY/IV7.pdf" target="new">Matter power spectrum (6 pages)</a>
+</td> </tr> </tbody> </table>
+
+<li>
+Chapter V: CMB temperature anisotropies
+</li>
+
+<table>
+
+<tbody> <tr> <td align="left">
+1. <a href="courses/EDPY/V1.pdf" target="new">Boltzmann equation for photons (25 pages)</a>
+<br>
+2. <a href="courses/EDPY/V2.pdf" target="new">Coupled equations for baryons (1 page)</a>
+<br>
+3. <a href="courses/EDPY/V3.pdf" target="new">Fom perturbations to CMB anisotropies (14 pages)</a>
+
+<br>
+4.
+<a href="courses/EDPY/V4.pdf" target="new">Generic contributions to the CMB spectrum (12 pages)</a>
+<br>
+5.
+<a href="courses/EDPY/V5.pdf" target="new">Physical effects controlling the spectrum shape (2 pages)</a>
+<br>
+6.
+<a href="courses/EDPY/V6.pdf" target="new">Effect of individual cosmological parameters on the CMB spectrum (3 pages)</a>
+<br>
+</td> </tr> </tbody> </table>
+
+
+</table>
+</li>
+</ul>
+
+    </li></ul></td>
+  </tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+<hr>
+
+Back to <a href="courses.html">courses</a> page.
+
+
+</body></html>

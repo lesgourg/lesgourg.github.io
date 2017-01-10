@@ -1,0 +1,269 @@
+<html><head><title>Presentation page of Julien Lesgourgues</title>
+
+
+<style type="text/css">
+   <!--
+   BODY {background-image: url(colonne_pattern8.jpg);
+         background-repeat: repeat-x;
+         background-color: #191919;
+	 color: #ffc000}
+   a  {color: #ff4e00}
+   -->
+</style></head><body>
+
+  <table width="100%">
+    <tbody><tr>
+      <td align="center">
+	<a href="https://lesgourg.web.cern.ch/lesgourg/index.html">
+	  home
+	</a>
+      </td>
+      <td align="center">
+	presentation
+      </td>
+      <td align="center">
+	<a href="https://lesgourg.web.cern.ch/lesgourg/courses.html">
+	courses
+	</a>
+      </td>
+      <td align="center">
+	<a href="https://lesgourg.web.cern.ch/lesgourg/codes.html">
+	codes
+	</a>
+      </td>
+      <td align="center">
+	<a href="https://lesgourg.web.cern.ch/lesgourg/events.html">
+	events
+	</a>
+      </td>
+      <td align="center">
+	<a href="https://lesgourg.web.cern.ch/lesgourg/private.html">
+	private
+	</a>
+      </td>
+   </tr>
+</tbody></table>
+
+<img src="v50.gif">
+
+<br>
+
+<h1 align="center">Presentation</h1>
+
+<br>
+
+<table align="center" width="90%">
+<tbody><tr>
+<td>
+<img src="lesgourgues_12.gif">
+</td>
+<td>
+<table>
+  <tbody><tr>
+    <td align="left">
+<ul>
+<li>
+I was born on the 8th of July 1972 in the
+<a href="http://en.wikipedia.org/wiki/Northern_Basque_Country" target="new">
+french Basque Country
+</a>, and
+grew up in
+<a href="http://www.biarritz.fr/en" target="new">
+Biarritz
+</a>. I have both French and Swiss origins and nationalities.
+</li><li>
+I became Ingeneer of the
+<a href="http://www.polytechnique.fr/" target="new">
+Ecole Polytechnique
+</a>
+(Paris) in 1994,
+and Doctor in Theoretical Physics in 1998 at the
+<a href="http://www.phys.univ-tours.fr/" target="new">
+University of Tours
+</a>
+(France).
+</li><li>
+I enjoyed two post-doctoral experiences at
+<a href="http://www.sissa.it/" target="new">
+SISSA
+</a>
+(Trieste, Italy) and
+<a href="http://public.web.cern.ch/public" target="new">
+CERN
+</a>
+(Geneva, Switzerland). Since 2000, I
+am a permanent
+<a href="http://www.cnrs.fr/" target="new">
+CNRS
+</a>
+researcher, member of
+<a href="http://wwwlapp.in2p3.fr/lapth" target="new">
+LAPTH
+</a>
+(<em>Laboratoire de Physique Théorique d'Annecy-le-Vieux</em>, France).
+Since March 2008, I am on leave of absence from LAPTH.
+</li></ul>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<ul>
+<li>
+I am currently carrying my research and teaching activities both at
+<a href="http://public.web.cern.ch/public" target="new">
+CERN
+</a>
+(in the
+<a href="http://wwwth.cern.ch/" target="new">
+Theory Division
+</a>)
+and at the
+<a href="http://itp.epfl.ch/page38155.html" target="new">
+Laboratoire de Physique des Particules et Cosmologie
+</a> of the Institute of Theoretical Physics at
+<a href="http://www.epfl.ch/" target="new">
+EPFL
+</a>
+(Lausanne).
+Currently, you can reach me most of the time at:
+</li></ul>
+<table align="center" width="90%">
+  <tbody><tr>
+<!--
+  <td>
+    <li> CERN:
+  </li></td>
+-->
+<td>
+  <table>
+      <tbody><tr align="center">
+	<td>
+	  Theory Division, PH-TH 4-2-018
+	</td>
+      </tr>
+      <tr align="center">
+	<td>
+	  CERN
+	</td>
+      </tr>
+      <tr align="center">
+	<td>
+	  CH-1211 Geneva 23
+	</td>
+      </tr>
+      <tr align="center">
+	<td>
+	  tel: + 41 (0)22 767 28 24
+	</td>
+      </tr>
+      <tr align="center">
+	<td>
+	  fax: + 41 (0)22 767 38 50
+	</td>
+      </tr>
+    </tbody></table>
+  </td>
+<!--
+  <td>
+    <li> EPFL:
+  </li></td>
+  <td>
+    <table>
+      <tbody><tr align="center">
+	<td>
+	  SB-ITP-LPPC, BSP 312
+	</td>
+      </tr>
+      <tr align="center">
+	<td>
+	  EPFL
+	</td>
+      </tr>
+      <tr align="center">
+	<td>
+	  CH-1015 Lausanne
+	</td>
+      </tr>
+      <tr align="center">
+	<td>
+	  tel: + 41 (0)21 693 05 61
+	</td>
+      </tr>
+      <tr align="center">
+	<td>
+	  fax: + 41 (0)21 693 05 23
+	</td>
+      </tr>
+    </tbody></table>
+  </td>
+-->
+</tr>
+</tbody></table>
+<ul>
+<li> starting from the 15th of April 2015, I will be Professor at the <a href="http://www.rwth-aachen.de">RWTH Aachen University</a>, at the <a href="http://www.particle-theory.rwth-aachen.de">TTK</a> (<em>Institute of Particle Physics and Cosmology</em>)
+</ul>
+
+<hr>
+
+<h2> Research activities </h2>
+
+I am a researcher in cosmology, the area of physics devoted to the
+understanding of our universe's global properties and evolution.
+This rapidly developing field is placed at the interface between
+theoretical physics, particle physics and astrophysics.
+My original background is rather in theoretical physics, but I am getting
+closer and closer to astrophysics, with a particular interest for
+understanding and interpreting astrophysical observations relevant for
+cosmology. <br>
+
+I am specialized in modeling the evolution of cosmological
+perturbations, starting from their generation (presumably during a
+stage in the early universe called inflation). Cosmological
+perturbations are responsible for cosmic microwave background
+anisotropies and for the formation of the large scale structure of the
+universe. Observing these quantities allows cosmologists to derive
+bounds and constraints on cosmological parameters, and on various
+possible extensions of the minimal cosmological scenario. <br>
+
+These issues are intimately related to the dark matter and dark energy
+problems, as well as other fascinating questions like the role of
+neutrinos in cosmology, or like possible observable consequences of
+high energy physics models (supersymmetry, string theory, large extra
+dimensions, modifications of gravity...)<br>
+
+My
+<a href="http://www.slac.stanford.edu/spires/find/hep/wwwcitesummary?rawcmd=FIND+A+LESGOURGUES&amp;FORMAT=www&amp;SEQUENCE=" target="new">
+list of publication
+</a> is avalaible e.g. from the
+<a href="http://www.slac.stanford.edu/spires/" target="new">
+SLAC server
+</a>.
+
+<hr>
+
+<h2> CV </h2>
+
+This <a href="https://lesgourg.web.cern.ch/lesgourg/Lesgourgues_cv_14.02.pdf" target="new">brief version</a> was up-to-date in January 2014.
+
+<hr>
+
+<h2> Hobbies </h2>
+
+Besides my wife Isabelle and my three daugthers Constance, Apolline and
+Diane, my main passions are:
+<ul>
+<li>Classical music, opera, playing the piano. <br>
+</li><li>Arts: architecture, painting, etc.<br>
+</li><li>Eating, winetasting and cooking
+</li><li>Mountain hiking and skiing (trying to balance the previous item).<br>
+</li></ul>
+
+<hr>
+
+Back to <a href="https://lesgourg.web.cern.ch/lesgourg/index.html">home</a> page.
+
+
+
+</body></html>

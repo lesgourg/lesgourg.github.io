@@ -1,0 +1,146 @@
+<html><head><title>Course page of Julien Lesgourgues: The CLASS tour</title>
+
+
+<style type="text/css">
+   <!--
+   BODY {background-color: #191919;
+         color: #ffc000}
+   a  {color: #ff4e00}
+   tt {color: #d2b48c;font-size: 120%}
+   -->
+</style></head><body>
+
+  <table width="100%">
+    <tbody><tr>
+      <td align="center">
+	<a href="http://lesgourg.web.cern.ch/lesgourg/index.html">
+	    home
+	    </a>
+      </td>
+      <td align="center">
+	<a href="http://lesgourg.web.cern.ch/lesgourg/presentation.html">
+	    presentation
+	    </a>
+      </td>
+      <td align="center">
+    <a href="http://lesgourg.web.cern.ch/lesgourg/courses.html">
+	courses
+    </a>
+      </td>
+      <td align="center">
+	<a href="http://lesgourg.web.cern.ch/lesgourg/codes.html">
+	  codes
+	  </a>
+      </td>
+      <td align="center">
+	<a href="http://lesgourg.web.cern.ch/lesgourg/events.html">
+	  events
+	  </a>
+      </td>
+      <td align="center">
+	<a href="http://lesgourg.web.cern.ch/lesgourg/private.html">
+	  private
+	  </a>
+      </td>
+   </tr>
+</tbody></table>
+
+<img src="http://lesgourg.web.cern.ch/lesgourg/v50.gif">
+
+<br>
+
+<h1 align="center">The CLASS Tour</h1>
+<h2 align="center">Workshop on tools for cosmology: the <a href="http://class-code.net" target="new">CLASS</a> and <a href="http://montepython.net" target="new">Monte Python</a> codes</h2>
+<h3 align="center"> by Benjamin Audren, Julien Lesgourgues, Thomas Tram </h3>
+<h4 align="center"> with the kind participation of Jesus Torrado & Miguel Zumalacarregui </h4>
+<h4 align="center">
+[UNAM, Mexico City, 14-17 Octobre 2013]
+[MPA, Munich, 17-21 March 2014]
+[Uni. Geneva, 31 March - 03 April 2014]
+</h4>
+<h4 align="center">
+[King's & UCL, London, 11-16 May 2014]
+[Barcelona, TBC, Octobre 2014]
+[Kavli IPMU, Tokyo, 27-31 Octobre 2014]</h4>
+<br>
+
+<table align="center" width="90%">
+<tbody><tr>
+<td>
+Slides updated on the 17.05.2014 (London version). Click on the red links to get the slides of each lecture:
+<p>
+<table>
+  <tbody><tr>
+    <td align="left">
+<ul>
+<h3>Cosmological perturbation theory, CMB physics and their implementation in the <a href="http://class-code.net" target="new">CLASS</a> code</h3>
+<table>
+<tbody> <tr> <td align="left">
+<li>
+<a href="lecture1.pdf">Lecture 1:</a> General introduction to <a href="http://class-code.net" target="new">CLASS</a> (motivations, overall structure, basic input and output, principle of the <tt>input</tt> module)
+<li>
+<a href="lecture2.pdf">Lecture 2:</a> Homogeneous Cosmology and the <tt>background</tt> module
+<li>
+<a href="lecture3.pdf">Lecture 3:</a> Thermal History and the <tt>thermodynamics</tt> module
+<li>
+<a href="lecture4.pdf">Lecture 4:</a> Cosmological Perturbations and the <tt>perturbation</tt> module
+<li>
+<a href="lecture5.pdf">Lecture 5:</a> Initial Conditions and the <tt>primordial</tt> module
+<li>
+<a href="ecture6.pdf">Lecture 6:</a> Non-linear corrections and the <tt>nonlinear</tt> module. Harmonic transfer Functions and the <tt>transfer</tt> module
+<li>
+<a href="lecture7.pdf">Lecture 7:</a> The <tt>spectra</tt>, <tt>lensing</tt> and <tt>output</tt> modules. Propspects and bibliography
+</tbody> </tr> </td>
+</table>
+<h3>
+Focus on specialised topics in <a href="http://class-code.net" target="new">CLASS</a><h3>
+<table>
+<tbody> <tr> <td align="left">
+<li>
+<a href="Numerical_Methods_in_CLASS_London.pdf">Lecture I:</a> Advanced numerical numerical methods
+<li>
+<a href="ncdm.pdf">Lecture II:</a> Implementation of massive neutrinos or other types of non-cold dark matter
+<li>
+<a href="CurvaturePolarisation_London.pdf">Lecture III:</a> Implementation of polarisation and of spatial curvature
+<li>
+<a href="nontrivial_species_in_CLASS.pdf">Lecture IV:</a> Implementation of non-trivial species (decaying dark matter, quintessence, ...)
+</tbody> </tr> </td>
+</table>
+<h3>
+Lectures by Benjamin Audren: Parameter extraction and <a href="http://montepython.net" target="new">Monte Python</a></h3>
+<table>
+<tbody> <tr> <td align="left">
+<li>
+<a href="MP_lecture1.pdf">Lecture A:</a> Parameter inference from data
+<li>
+<a href="MP_lecture2.pdf">Lecture B:</a> Intrduction to <a href="http://montepython.net" target="new">Monte Python</a>
+<li>
+<a href="MP_lecture3.pdf">Lecture C:</a> Basic usage of <a href="http://montepython.net" target="new">Monte Python</a>
+<li>
+<a href="MP_lecture4.pdf">Lecture D:</a> Avanced usage of <a href="http://montepython.net" target="new">Monte Python</a>
+<li>
+<a href="MP_lectureNS.pdf">Lecture E:</a> Using Multinest in <a href="http://montepython.net" target="new">Monte Python</a>
+<li>
+<a href="MP_lecture5.pdf">Lecture F:</a> Introduction to <a href="https://github.com/lesgourg/class_public" target="new">git</a> repositories and automatic testing
+</tbody> </tr> </td>
+</table>
+</li>
+</ul>
+Big thanks to the organisers of these workshops, in particular:
+<li> Axel De La Macorra and Ivan Rodriguez
+<li> Eiichiro Komatsu and Jochen Weller
+<li> Dani Figueroa and Ruth Durrer
+<li> Eugen Lim and Hiranya Peiris
+    </li></ul></td>
+  </tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+<hr>
+
+Back to <a href="http://lesgourg.web.cern.ch/lesgourg/courses.html">courses</a> page.
+
+
+</body></html>

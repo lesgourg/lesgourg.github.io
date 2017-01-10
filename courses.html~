@@ -1,0 +1,113 @@
+<html><head><title>Course page of Julien Lesgourgues</title>
+
+
+<style type="text/css">
+   <!--
+   BODY {background-image: url(colonne_pattern8.jpg);
+         background-repeat: repeat-x;
+         background-color: #191919;
+	  color: #ffc000}
+   a  {color: #ff4e00}
+   -->
+</style></head><body>
+
+  <table width="100%">
+    <tbody><tr>
+      <td align="center">
+	<a href="http://lesgourg.web.cern.ch/lesgourg/index.html">
+	    home
+	    </a>
+
+      </td>
+      <td align="center">
+	<a href="http://lesgourg.web.cern.ch/lesgourg/presentation.html">
+	    presentation
+	    </a>
+      </td>
+      <td align="center">
+	courses
+      </td>
+      <td align="center">
+
+	<a href="http://lesgourg.web.cern.ch/lesgourg/codes.html">
+	  codes
+	  </a>
+      </td>
+      <td align="center">
+	<a href="http://lesgourg.web.cern.ch/lesgourg/events.html">
+	  events
+	  </a>
+      </td>
+      <td align="center">
+
+	<a href="http://lesgourg.web.cern.ch/lesgourg/private.html">
+	  private
+	  </a>
+      </td>
+   </tr>
+</tbody></table>
+
+<img src="v50.gif">
+
+<br>
+
+<h1 align="center">Courses</h1>
+
+<br>
+
+<table align="center" width="90%">
+<tbody><tr>
+<td>
+<img src="tableau_rond.gif">
+</td>
+<td>
+<table>
+  <tbody><tr>
+    <td align="left">
+<ul>
+<li> Master course on <a href="https://www.dropbox.com/s/h95igc3rnd8g6q4/Cosmo_JL_Bern.pdf?dl=0">"Cosmology"</a> given at the University of Bern, Spring Semester 2015 (will be updated on-the-fly till May 2015)</li>
+<li>
+<a href="class-tour/class-tour.html">The CLASS Tour</a>: Workshops on the <a href="http://class-code.net" target="new">CLASS</a> and <a href="http://montepython.net" target="new">Monte Python</a> codes <br> (Mexico, October 2013 - Munich, March 2014 - Geneva, April 2014 - London, May 2014)
+</li>
+<li>
+<a href="http://arxiv.org/abs/arXiv:1302.4640">TASI lectures on Cosmological Perturbations</a> given at the University of Colorado, June 2012
+</li>
+<li>
+doctoral level course on
+<a href="http://lesgourg.web.cern.ch/lesgourg/edpy.html" target="new">
+"Advanced Cosmology"</a> given at EPFL in the frame of EDPY, spring
+2008, 2010 and 2012 </li>
+<li> M2/MSc-level course on <a
+href="http://lesgourg.web.cern.ch/lesgourg/poly2009.pdf"
+target="new">"Cosmology"</a> given at ENS Lyon, winter 2009-2010 and
+2010-2011 (here are the old versions of <a
+href="http://lesgourg.web.cern.ch/lesgourg/poly2008.pdf"
+target="new">2008-2009</a> and <a
+href="http://lesgourg.web.cern.ch/lesgourg/poly2007.pdf"
+target="new">2007-2008</a>).<br>
+</li><li>
+undergraduate level course
+<a href="http://arxiv.org/pdf/astro-ph/0409426" target="new">"Introduction to Cosmology"</a> given at the CERN student summer school, summer 2002 to 2005
+</li><li>
+doctoral level course on
+<a href="http://lesgourg.web.cern.ch/lesgourg/DMDE_EPFL.pdf" target="new">"Dark Matter and Dark Energy"</a> given at EPFL in the frame of the <em>Ecole Doctorale de Suisse Romande</em>, autumn 2008, in collaboration with Celine Boehm (LAPTH, Annecy)
+</li><li>
+doctoral level course on
+<a href="http://lesgourg.web.cern.ch/lesgourg/Inflation_EPFL.pdf" target="new">"Inflationary Cosmology"</a> given at EPFL in the frame of the <em>Ecole Doctorale de Suisse Romande</em>, spring 2006
+
+</li><li>
+beginning of a doctoral level course on
+<a href="http://lesgourg.web.cern.ch/lesgourg/Perturbations_LAPTH.pdf" target="new">"Th&eacute;orie lin&eacute;aire des Perturbations Cosmologiques"</a> given at LAPTH in 2000-2001
+    </li></ul></td>
+  </tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+<hr>
+
+Back to <a href="http://lesgourg.web.cern.ch/lesgourg/index.html">home</a> page.
+
+
+</body></html>
